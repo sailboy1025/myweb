@@ -1,4 +1,10 @@
-# A Lil about myself
+---
+title: "A Lil about myself"
+date: 2023-07-10T20:24:45-04:00
+summary: 'my research'
+draft: false
+tags: ['robot']
+---
 
 Welcome to my research profile! I am currently a Ph.D. student at Case Western Reserve University, working under the guidance of Prof. [Zonghe Chua](https://zonghe-chua.github.io/experience/) in [Lab ERIE](https://enhanced-telerobotics.github.io/team/). My research focuses on the intersection of haptics, teleoperation optimization, and enhanced eye tracking virtual reality (VR). In this page, I will provide an overview of my research interests and the goals I aim to achieve through my doctoral studies.
 
@@ -22,4 +28,4 @@ Throughout my Ph.D. studies, I have set several objectives to guide my research 
 
 4. **Contributing to Research Community**: I am committed to sharing my research findings through academic publications and presentations at conferences. By actively participating in the research community, I aim to contribute to the knowledge and understanding of haptics, teleoperation optimization, and enhanced eye tracking VR.
 
-## Glad you read all that :D
+## Glad you read all that 😀
